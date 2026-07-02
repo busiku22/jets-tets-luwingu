@@ -1,0 +1,6 @@
+{
+  "name": "Luwingu JETS & TETS Hub",
+  "description": "An offline-first portal for Luwingu district schools to streamline JETS & TETS registration, project submissions, quizzes, Olympiads, and result tracking with a child-friendly interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
